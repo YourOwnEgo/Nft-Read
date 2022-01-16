@@ -1,4 +1,4 @@
-# Signal News App
+# NFTz.
 
 <img align="right" src="Shorts\1.gif" height="500">
 
