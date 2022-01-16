@@ -4,22 +4,24 @@
 
 <h3> Description </h3>
 
-<p2> Signal is multiPlatform news app made with flutter and dart.</p2>
+<p2> NFTz. is platform for selling and purchasing NFT art collection.</p2>
 
-*  16+ screen.
+*  40+ screen.
 *  Dark and Light Theme supported.
-*  Super animations. 
+*  Super smooth animation.
 *  Super performant.
-*  Super frame rate, works at 60+ frame rate.
+*  Amazing frame rate, works at 60+ FPS.
 
 
 <h3> Animations </h3>
   
 
-* AppBar persistency animation
+* Animated Focus Gide
 * Theme switching animations
-* Transform animations
-* Amazing animations
+* Page Transition animation
+* Parallax animation
+* Jelly Bounce Animation
+* Theme Switching Animation
 
 <br></br>
 
@@ -38,16 +40,16 @@
 <table>
   <tr>
     <th>
-    Transform Animation
+    Animated Intro
     </th>
      <th>
-    Scroll Animation
+    Liquid Transition
     </th>
      <th>
-    Persistency Animation
+    Page Swipe Animation
     </th>
       <th>
-    Theme Animation
+    Lottie Animation
     </th>
   </tr>
 <tr>
@@ -68,13 +70,16 @@
 <table>
   <tr>
      <th>
-    Sliver Scroll
+    Parallax Animation 
     </th>
      <th>
-    Simple Scroll Animation
+    Image Scale Animation
     </th>
      <th>
-    Color Options
+    Theme Animation
+    </th>
+     <th>
+    Jelly Bounce Animation
     </th>
   </tr>
 <tr>
@@ -86,35 +91,35 @@
      <img src="Shorts\6.gif" width="100%" height ="400"/>
    </td>
    <td align="center">
-     <img src="Shorts\7.gif" width="100%" height ="400"/>
+     <img src="Shorts\8.gif" width="100%" height ="400"/>
+   </td>
+   <td align="center">
+     <img src="Shorts\9.gif" width="100%" height ="400"/>
    </td>
 </tr>
 </table>
 
-  ## Theme Animation Snaps
+  ## Bidding Flow Short
   <table>
   <tr>
    <td align="center">
-         <img align="center" src="Snaps\23.png" width="100%" height ="400"/>
-      </td>      
-      <td align="center">
-         <img align="center" src="Snaps\24.png" width="100%" height ="400"/>
-      </td>      
+         <img align="center" src="Shorts\7.gif" width="100%" height ="400"/>
+      </td>          
   </tr>
   </table>
 
 <h1>UX</h1> 
  <h3>The ui is divided into flows.<h3>
  <ol>
-  <li>Splash and Onboarding.</li>
-   <li>Authentication Flow.</li>
+  <li>Onboarding and Intro.</li>
+   <li>Connect Wallet.</li>
    <li>Select Interest.</li> 
    <li>Articles and User Flow.</li>
    <li>Article Details.</li>
    <li>Explore.</li>
  </ol>   
 
-## Splash And Onboarding
+## Onboarding and Intro
 
 <table>
 <tr>
@@ -124,32 +129,23 @@
        <td align="center">
          <img src="Snaps\2.png" width="100%" height ="400"/>
       </td>
-    
-</tr>
-</table>
-
-## Authentication Flow
-<table>
-<tr>
-      <td align="center">
+       <td align="center">
          <img src="Snaps\3.png" width="100%" height ="400"/>
       </td>
-      <td align="center">
-         <img align="center" src="Snaps\4.png" width="100%" height ="400"/>
-      </td>
-      <td align="center">
-         <img align="center" src="Snaps\5.png" width="100%" height ="400"/>
+       <td align="center">
+         <img src="Snaps\4.png" width="100%" height ="400"/>
       </td>
 </tr>
 </table>
 
-## Select Interest
-
+## Connect Wallet
 <table>
 <tr>
+      <td align="center">
+         <img src="Snaps\5.png" width="100%" height ="400"/>
       </td>
       <td align="center">
-         <img src="Snaps\6.png" width="100%" height ="400"/>
+         <img align="center" src="Snaps\6.png" width="100%" height ="400"/>
       </td>
       <td align="center">
          <img align="center" src="Snaps\7.png" width="100%" height ="400"/>
@@ -157,79 +153,103 @@
 </tr>
 </table>
 
-
-## Articles and User Flow
+## Home and User
 
 <table>
 <tr>
+      </td>
       <td align="center">
          <img src="Snaps\8.png" width="100%" height ="400"/>
       </td>
       <td align="center">
-         <img src="Snaps\9.png" width="100%" height ="400"/>
+         <img align="center" src="Snaps\9.png" width="100%" height ="400"/>
       </td>
       <td align="center">
          <img align="center" src="Snaps\10.png" width="100%" height ="400"/>
-      </td>
-  <td align="center">
-         <img align="center" src="Snaps\10.png" width="100%" height ="400"/>
-      </td>
-</tr>
-  <tr>
-      <td align="center">
-         <img align="center" src="Snaps\11.png" width="100%" height ="400"/>
-      </td>
-      <td align="center">
-         <img align="center" src="Snaps\12.png" width="100%" height ="400"/>
-      </td>
-    <td align="center">
-         <img align="center" src="Snaps\19.png" width="100%" height ="400"/>
-      </td>
-      <td align="center">
-         <img align="center" src="Snaps\20.png" width="100%" height ="400"/>
-      </td>
-  </tr>
-  <tr>
-  <td align="center">
-         <img align="center" src="Snaps\21.png" width="100%" height ="400"/>
-      </td>
-<!--     <td align="center">
-         <img align="center" src="Snaps\20.png" width="100%" height ="400"/>
-      </td>  -->
-  </tr>
-</table>
-
-## Article Details
-
-<table>
-   <tr>
-<!--       <td align="center">
-         <img src="Snaps\13.png" width="100%" height ="400"/>
-      </td> -->
-      <td align="center">
-         <img src="Snaps\14.png" width="100%" height ="400"/>
       </td>
       <td align="center">
          <img align="center" src="Snaps\15.png" width="100%" height ="400"/>
       </td>
+</tr>
+<tr>
+      </td>
       <td align="center">
-         <img align="center" src="Snaps\16.png" width="100%" height ="400"/>
+         <img src="Snaps\16.png" width="100%" height ="400"/>
       </td>
-       <td align="center">
+      <td align="center">
          <img align="center" src="Snaps\17.png" width="100%" height ="400"/>
       </td>
-   </tr>
-   <tr>
-<!--       <td align="center">
-         <img align="center" src="Snaps\17.png" width="100%" height ="400"/>
-      </td> -->
       <td align="center">
          <img align="center" src="Snaps\18.png" width="100%" height ="400"/>
       </td>
       <td align="center">
          <img align="center" src="Snaps\19.png" width="100%" height ="400"/>
-      </td>      
-           
+      </td>
+</tr>
+<tr>
+      </td>
+      <td align="center">
+         <img src="Snaps\20.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\21.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\22.png" width="100%" height ="400"/>
+      </td>
+</tr>
+</table>
+
+
+## Details and Bid History
+
+<table>
+<tr>
+      <td align="center">
+         <img src="Snaps\23.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img src="Snaps\24.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\25.png" width="100%" height ="400"/>
+      </td>
+  <td align="center">
+         <img align="center" src="Snaps\26.png" width="100%" height ="400"/>
+      </td>
+</tr>
+</table>
+
+## Bid Flow
+
+<table>
+   <tr>
+      <td align="center">
+         <img src="Snaps\27.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\28.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\29.png" width="100%" height ="400"/>
+      </td>
+       <td align="center">
+         <img align="center" src="Snaps\30.png" width="100%" height ="400"/>
+      </td>
+   </tr>
+    <tr>
+      <td align="center">
+         <img src="Snaps\31.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\32.png" width="100%" height ="400"/>
+      </td>
+      <td align="center">
+         <img align="center" src="Snaps\33.png" width="100%" height ="400"/>
+      </td>
+       <td align="center">
+         <img align="center" src="Snaps\34.png" width="100%" height ="400"/>
+      </td>
    </tr>
   </table>
   
@@ -239,7 +259,41 @@
   <table>
   <tr>
   <td align="center">
-         <img align="center" src="Snaps\22.png" width="100%" height ="400"/>
+         <img align="center" src="Snaps\11.png" width="100%" height ="400"/>
+      </td>        
+  <td align="center">
+         <img align="center" src="Snaps\12.png" width="100%" height ="400"/>
+      </td>        
+  <td align="center">
+         <img align="center" src="Snaps\13.png" width="100%" height ="400"/>
+      </td>        
+  </tr>
+  </table>
+
+
+ ## Upload Flow 
+  
+  <table>
+  <tr>
+  <td align="center">
+         <img align="center" src="Snaps\35.png" width="100%" height ="400"/>
+      </td>        
+  <td align="center">
+         <img align="center" src="Snaps\36.png" width="100%" height ="400"/>
+      </td>        
+  <td align="center">
+         <img align="center" src="Snaps\37.png" width="100%" height ="400"/>
+      </td>        
+  <td align="center">
+         <img align="center" src="Snaps\38.png" width="100%" height ="400"/>
+      </td>        
+  </tr>
+  <tr>
+  <td align="center">
+         <img align="center" src="Snaps\39.png" width="100%" height ="400"/>
+      </td>        
+  <td align="center">
+         <img align="center" src="Snaps\40.png" width="100%" height ="400"/>
       </td>        
   </tr>
   </table>
