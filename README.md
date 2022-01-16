@@ -25,16 +25,6 @@
 
 <br></br>
 
-<!-- # Screenshots of app -->
-<!-- 
-<p align="center" style="margin:10">
-<img src="Snaps\1.png" width="24%">
-<img src="Snaps\2.png" width="24%">
-<img src="Snaps\3.png" width="24%">
-<img src="Snaps\4.png" width="24%">
-</p> -->
-
-
 # Animation
 
 <table>
@@ -113,10 +103,11 @@
  <ol>
   <li>Onboarding and Intro.</li>
    <li>Connect Wallet.</li>
-   <li>Select Interest.</li> 
-   <li>Articles and User Flow.</li>
-   <li>Article Details.</li>
+   <li>Home and User.</li> 
+   <li>Details and Bid History.</li>
+   <li>Bid Flow.</li>
    <li>Explore.</li>
+   <li>Upload Flow.</li>
  </ol>   
 
 ## Onboarding and Intro
